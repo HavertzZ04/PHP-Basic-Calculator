@@ -36,7 +36,6 @@ function processForm() {
     };
     return $num;
 }
-
 $num = processForm();
 ?>
 
@@ -70,3 +69,4 @@ $num = processForm();
     </form>
 </body>
 </html>
+
