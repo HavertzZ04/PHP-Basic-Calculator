@@ -1,0 +1,30 @@
+.b{
+    width: 3rem;
+    height: 3rem;
+    background-color: rgb(255, 251, 222);
+    border: solid 1px rgb(90, 90, 90);
+}
+
+#input{
+    width: 12.4rem;
+    height: 3rem;
+    text-align: center;
+    background-color: rgb(206, 240, 242);
+    border: solid 1px rgb(90, 90, 90);
+}
+
+#equal{
+    width: 6.25rem;
+    height: 3rem;
+    background-color: rgb(249, 170, 170);
+    border: solid 1px rgb(90, 90, 90);
+}
+
+input{
+    margin-top: 0.2rem;
+}
+
+.op{
+    background-color: rgb(220, 215, 250);
+    border: solid 1px rgb(90, 90, 90);
+}
